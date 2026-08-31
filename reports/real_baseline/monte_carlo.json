@@ -1,0 +1,32 @@
+[
+  {
+    "risk_per_trade": 0.0025,
+    "simulations": 10000.0,
+    "expected_max_drawdown": -0.017747909257252243,
+    "max_drawdown_95": -0.027215022653080845,
+    "max_drawdown_99": -0.03207881262772738,
+    "probability_of_ruin": 0.0,
+    "probability_of_20pct_drawdown": 0.0,
+    "probability_of_30pct_drawdown": 0.0
+  },
+  {
+    "risk_per_trade": 0.005,
+    "simulations": 10000.0,
+    "expected_max_drawdown": -0.03523625152561802,
+    "max_drawdown_95": -0.05380143245121527,
+    "max_drawdown_99": -0.06321825123712443,
+    "probability_of_ruin": 0.0,
+    "probability_of_20pct_drawdown": 0.0,
+    "probability_of_30pct_drawdown": 0.0
+  },
+  {
+    "risk_per_trade": 0.01,
+    "simulations": 10000.0,
+    "expected_max_drawdown": -0.06944743911231897,
+    "max_drawdown_95": -0.10510062450578994,
+    "max_drawdown_99": -0.1228698825095027,
+    "probability_of_ruin": 0.0,
+    "probability_of_20pct_drawdown": 0.0,
+    "probability_of_30pct_drawdown": 0.0
+  }
+]
