@@ -1,0 +1,4 @@
+{
+  "extends": "default.json",
+  "enable_relative_strength": false
+}

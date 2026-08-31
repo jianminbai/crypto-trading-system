@@ -1,0 +1,11 @@
+{
+  "HYPE": ["Perp DEX"],
+  "AAVE": ["Lending", "DeFi"],
+  "ONDO": ["RWA"],
+  "SOL": ["Infrastructure"],
+  "ETH": ["Infrastructure", "Liquid Staking"],
+  "LINK": ["Infrastructure", "RWA"],
+  "UNI": ["DEX"],
+  "AVAX": ["Infrastructure"],
+  "DOGE": ["Meme"]
+}

@@ -1,0 +1,7 @@
+{
+  "extends": "default.json",
+  "enable_liquidity_filter": true,
+  "liquidity_min_score": 50.0,
+  "liquidity_max_age_days": 7,
+  "liquidity_blocked_leverage_risks": ["EXTREME"]
+}

@@ -1,0 +1,15 @@
+{
+  "BTC": "BTCUSDT",
+  "ETH": "ETHUSDT",
+  "SOL": "SOLUSDT",
+  "BNB": "BNBUSDT",
+  "XRP": "XRPUSDT",
+  "ADA": "ADAUSDT",
+  "DOGE": "DOGEUSDT",
+  "DOT": "DOTUSDT",
+  "LINK": "LINKUSDT",
+  "LTC": "LTCUSDT",
+  "BCH": "BCHUSDT",
+  "AVAX": "AVAXUSDT",
+  "UNI": "UNIUSDT"
+}

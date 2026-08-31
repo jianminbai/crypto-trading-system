@@ -1,0 +1,38 @@
+{
+  "liquidity_weights": {
+    "stablecoin_supply_growth": 25,
+    "btc_etf_flow": 20,
+    "eth_etf_flow": 10,
+    "total_market_trend": 15,
+    "btc_trend": 15,
+    "funding_oi_risk": 15
+  },
+  "liquidity_scales": {
+    "stablecoin_growth_pct": 5.0,
+    "btc_etf_flow_usd": 2000000000,
+    "eth_etf_flow_usd": 750000000,
+    "total_market_trend_pct": 10.0,
+    "btc_trend_pct": 10.0
+  },
+  "funding_high": 0.0005,
+  "funding_extreme": 0.001,
+  "oi_growth_high_pct": 15.0,
+  "chain_weights": {
+    "stablecoin_growth": 25,
+    "tvl_growth": 15,
+    "dex_volume_growth": 20,
+    "perp_volume_growth": 10,
+    "bridge_netflow": 15,
+    "users_growth": 5,
+    "fees_revenue_growth": 10
+  },
+  "sector_weights": {
+    "market_cap_growth": 25,
+    "volume_growth": 20,
+    "tvl_growth": 15,
+    "revenue_growth": 15,
+    "token_relative_strength": 25
+  },
+  "growth_score_scale_pct": 20.0,
+  "netflow_score_scale_pct": 5.0
+}

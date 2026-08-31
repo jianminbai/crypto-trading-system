@@ -1,0 +1,12 @@
+[project]
+name = "crypto-capital-flow-system"
+version = "0.1.0"
+description = "Explainable crypto trend-following research system"
+requires-python = ">=3.9"
+
+[project.scripts]
+crypto-system = "crypto_system.cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
